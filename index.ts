@@ -18,14 +18,14 @@ class Libro {
 }
 
 // Creando instancias de la clase Libro
-const libro1 = new Libro(
+const libro2 = new Libro(
   "Cien años de soledad",
   "Gabriel García Márquez",
   1967
 );
 // [Tu código para el segundo libro]
 
-const libro2 = new Libro("El principito", "Antoine de Saint-Exupéry", 1943);
+const libro1 = new Libro("El principito", "Antoine de Saint-Exupéry", 1943);
 
 // Usando el método getAntiguedad y mostrando detalles de los libros
 console.log(
